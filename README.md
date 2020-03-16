@@ -6,7 +6,7 @@
 - **aula**: 12 e 17 de 03 de 2020
 - **assunto**: 
   - [Listas e chaves](https://pt-br.reactjs.org/docs/lists-and-keys.html)
-  - Formulários 1[Componentes controlados](https://pt-br.reactjs.org/docs/forms.html)
+  - Formulários [Componentes controlados](https://pt-br.reactjs.org/docs/forms.html)
 
 ## Tarefa valendo ponto
 
